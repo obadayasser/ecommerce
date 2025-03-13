@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Gamepad",
+        "imgUrl": "/Asset/Categories/Category-Gamepad.png"
+    },
+    {
+        "id": 2,
+        "name": "CellPhone",
+        "imgUrl": "/Asset/Categories/Category-CellPhone.png"
+    },
+    {
+        "id": 3,
+        "name": "Computer",
+        "imgUrl": "/Asset/Categories/Category-Computer.png"
+    },
+    {
+        
+        "id": 4,
+        "name": "Camera",
+        "imgUrl": "/Asset/Categories/Category-Camera.png"
+
+    },
+    {
+        "id": 5,
+        "name": "Headphone",
+        "imgUrl": "/Asset/Categories/Category-Headphone.png"
+    },
+    {
+        "id": 6,
+        "name": "SmartWatch",
+        "imgUrl": "/Asset/Categories/Category-SmartWatch.png"
+    }
+]
+

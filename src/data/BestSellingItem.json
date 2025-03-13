@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone",
+        "price": 500,
+        "price2":700,
+        "sel":"fa-solid fa-cart-shopping",
+        "like":"fa-regular fa-heart",
+        "imgUrl": "/Asset/12.png"
+    },
+    {
+        "id": 2,
+        "name": "Bag",
+        "price": 120,
+        "price2":700,
+        "sel":"fa-solid fa-cart-shopping",
+        "like":"fa-regular fa-heart",
+        "imgUrl": "/Asset/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Jacet",
+        "price": 200,
+        "price2":700,
+        "sel":"fa-solid fa-cart-shopping",
+        "like":"fa-regular fa-heart",
+        "imgUrl": "/Asset/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Keybord",
+        "price": 70,
+        "price2":700,
+        "sel":"fa-solid fa-cart-shopping",
+        "like":"fa-regular fa-heart",
+        "imgUrl": "/Asset/4.png"
+    }
+]
+

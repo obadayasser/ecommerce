@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name2":"10.5K",
+        "name": "Sallers active our site",
+        "imgUrl": "/Asset/Story/Group.png"
+    },
+    {
+        "id": 2,
+        "name2":"33K",
+        "name": "Mopnthly Produduct Sale",
+        "imgUrl": "/Asset/Story/Icon-Moneybag.png"
+    },
+    {
+        "id": 3,
+        "name2":"45.5K",
+        "name": "Computer",
+        "imgUrl": "/Asset/Story/Icon-Sale.png"
+    },
+    {
+        
+        "id": 4,
+        "name2":"25K",
+        "name": "Customer active in our site",
+        "imgUrl": "/Asset/Story/Icon-Shopping bag.png"
+
+    }
+]
+
